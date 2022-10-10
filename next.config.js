@@ -22,11 +22,11 @@ const nextConfig = {
       },
       {
         source: "/vanilla-blog",
-        destination: "https://blog.pongdang.today/vanilla-blog",
+        destination: "https://pongdang-github-io.vercel.app/vanilla-blog",
       },
       {
         source: "/vanilla-blog/:path*",
-        destination: "https://blog.pongdang.today/vanilla-blog/:path*",
+        destination: "https://pongdang-github-io.vercel.app/vanilla-blog/:path*",
       },
     ];
   },
